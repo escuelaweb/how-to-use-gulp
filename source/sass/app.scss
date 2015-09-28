@@ -1,0 +1,25 @@
+body {
+  font-family: Helvetica;
+}
+
+h1, h2,h3,h4,h5,h6 {
+  font-weight: normal;
+}
+
+a {
+  color: aqua;
+}
+
+header,
+footer {
+  padding: 1em;
+}
+
+.modulo {
+  border: 1px solid #ccc;
+  margin: 1em;
+  padding: 1em;
+  h1 {
+    color: darkgoldenrod;
+  }
+}

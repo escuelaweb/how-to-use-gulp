@@ -1,0 +1,19 @@
+{
+  "name": "escuelaweb-how-to-use-gulp",
+  "version": "1.0.0",
+  "description": "Como usar gulp para automatizar tareas de frontend",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Marin <higher.vnf@gmail.com>",
+  "license": "ISC"
+}
